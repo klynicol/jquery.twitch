@@ -1,6 +1,6 @@
 ## jquery.twitch
 
-#Jquery plugin for responsive hover. The element is moved opposite of the mouse.
+# Jquery plugin for responsive hover. The element is moved opposite of the mouse.
 
-###Usage
+### Usage
 ___
