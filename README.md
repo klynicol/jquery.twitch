@@ -15,3 +15,5 @@ $('#foo).twitch({
   transition: 0.3  //Number, time in milliseconds for css transitions; default is 0.3
 });
 ```
+
+[Demo](http://markwickline.com/twitch.html)
