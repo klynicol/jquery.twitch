@@ -11,9 +11,9 @@ $('#foo').twitch();
 ```
 $('#foo).twitch({
   layers: 1,       //Number, the number of layers below the first that will move when hovered; default is 1
-  distance: 20,    //Number, distance in pixels the element will travel while being hovered continuously; default is 20
+  distance: 20,    //Number, distance in pixels the element will travel; default is 20
   transition: 0.3  //Number, time in milliseconds for css transitions; default is 0.3
 });
 ```
 
-[Demo](http://markwickline.com/twitch.html)
+[View Demo!](http://markwickline.com/twitch.html)
