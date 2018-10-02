@@ -158,7 +158,7 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
                         current.child = transfer;
                     } else if (transfer && transfer.z < current.z) {
                         //last is above current
-                        transfer.disengage();
+                        //transfer.disengage();
                     } else {
                         //TODO
                     }
