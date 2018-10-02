@@ -1,5 +1,5 @@
 /**
- * TwitchAThing v2.0.0-development
+ * TwitchAThing v2.0.1-development
  * Copyright (c) 2018, Mark Wickline
  *
  * this source code is licensed under the MIT license found in the
